@@ -1,0 +1,7 @@
+REGISTRY_URL=https://hub.docker.com/repository/docker/rogelioacv/
+REGISTRY_NAME=devopsproyecto
+SLACK_CHANNEL= 
+SCAN_SOURCE=src/main/java
+SCAN_EXCLUDE_FILES=.mvn
+SCAN_JAVA_BINARIES=tmp
+SCAN_JAVA_LIBRARIES=**/*.jar
